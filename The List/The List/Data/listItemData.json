@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Mauna Loa",
+        "category": "Bar",
+        "address": "3404 Fillmore St.",
+        "city": "San Francisco",
+        "id": 1,
+        "imageName": "foo",
+        "done": true,
+        "notes": "This is our favorite bar!"
+    },
+    {
+        "name": "Ace Wasabi",
+        "category": "Restaurant",
+        "address": "1234 Steiner St.",
+        "city": "San Francisco",
+        "id": 2,
+        "imageName": "foo",
+        "done": false,
+        "notes": "Best Sushi around!"
+    }
+]
